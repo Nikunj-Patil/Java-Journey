@@ -12,5 +12,7 @@ public class Loops7 {
             System.out.printf("%02d ", ++c);}
                 System.out.println(" ");
     }
-    }
+        sc.close();    
+}
+    
 }

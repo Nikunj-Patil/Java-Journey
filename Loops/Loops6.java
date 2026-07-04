@@ -17,6 +17,6 @@ public class Loops6 {
             b = c;
             
         }
-        
+        s.close();
     }
 }
