@@ -17,5 +17,6 @@ public class Loops9 {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }
